@@ -1,0 +1,30 @@
+{
+  "id": "2b4a6573-f24e-4b80-84e5-21291ddb0098",
+  "name": "GestionConge",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "target": "OnPrem",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
